@@ -1,0 +1,8 @@
+Repository:
+https://github.com/Arilzz/lu-zihao-utokyo-GSII-application-portfolio
+
+Main portfolio URL to enter in the application form:
+https://github.com/Arilzz/lu-zihao-utokyo-GSII-application-portfolio/blob/main/documents/Achievement_Evidence_Portfolio_Japanese_English_Lu_Zihao.pdf
+
+Direct-download URL (optional):
+https://raw.githubusercontent.com/Arilzz/lu-zihao-utokyo-GSII-application-portfolio/main/documents/Achievement_Evidence_Portfolio_Japanese_English_Lu_Zihao.pdf
